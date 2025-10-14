@@ -6,7 +6,10 @@ export default function Ex4() {
   return (
     <div className="my-8">
         <h1 className="text-2xl font-bold mb-4">Ex4 - Card Responsivo</h1>
-      {/* Resolva aqui */}
+      {<div className="w-19 h-26 bg-amber-400"> 
+        <title className = ""></title>
+        
+      </div>}
     </div>
   );
 }
